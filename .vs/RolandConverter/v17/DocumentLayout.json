@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\smrcmessagebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\smrcmessagebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C60F1D-ED4C-6FB4-F8C6-D74DDE647B7E}|RolandConverter.Tests\\RolandConverter.Tests.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter.tests\\convertertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C60F1D-ED4C-6FB4-F8C6-D74DDE647B7E}|RolandConverter.Tests\\RolandConverter.Tests.csproj|solutionrelative:rolandconverter.tests\\convertertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\smrcvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\smrcvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\smrctomidiconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\smrctomidiconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\midivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\midivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\smrcheaderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\smrcheaderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\convertertestharness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\convertertestharness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\smrcheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\smrcheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\smrctrackbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\smrctrackbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\miditrackbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\miditrackbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\trackdirectoryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\trackdirectoryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\smrcevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\smrcevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\midifiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\midifiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|c:\\users\\windo\\onedrive\\documents\\development\\rolandconverter\\rolandconverter\\tracelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA095546-6EF5-48A0-A643-CEF1870E6DBC}|RolandConverter\\RolandConverter.csproj|solutionrelative:rolandconverter\\tracelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ebe3f1d5-feac-4131-bf03-0e85ffb89a89}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\Helper.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\Helper.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\Helper.cs",
+              "RelativeToolTip": "RolandConverter\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:08:17.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmrcMessageBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\SmrcMessageBuilder.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\SmrcMessageBuilder.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\SmrcMessageBuilder.cs",
+              "RelativeToolTip": "RolandConverter\\SmrcMessageBuilder.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwFIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:37:17.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SmrcHeader.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\SmrcHeader.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\SmrcHeader.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\SmrcHeader.cs",
+              "RelativeToolTip": "RolandConverter\\SmrcHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:25:13.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SmrcHeaderBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\SmrcHeaderBuilder.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\SmrcHeaderBuilder.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\SmrcHeaderBuilder.cs",
+              "RelativeToolTip": "RolandConverter\\SmrcHeaderBuilder.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:20:14.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SmrcTrackBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\SmrcTrackBuilder.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\SmrcTrackBuilder.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\SmrcTrackBuilder.cs",
+              "RelativeToolTip": "RolandConverter\\SmrcTrackBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:02:21.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MidiTrackBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\MidiTrackBuilder.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\MidiTrackBuilder.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\MidiTrackBuilder.cs",
+              "RelativeToolTip": "RolandConverter\\MidiTrackBuilder.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:29:18.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\Constants.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\Constants.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\Constants.cs",
+              "RelativeToolTip": "RolandConverter\\Constants.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAAwLoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:29:33.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MidiValidator.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\MidiValidator.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\MidiValidator.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\MidiValidator.cs",
+              "RelativeToolTip": "RolandConverter\\MidiValidator.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAADIAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:18:38.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TrackDirectoryEntry.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\TrackDirectoryEntry.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\TrackDirectoryEntry.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\TrackDirectoryEntry.cs",
+              "RelativeToolTip": "RolandConverter\\TrackDirectoryEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:24:51.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TraceLogger.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\TraceLogger.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\TraceLogger.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\TraceLogger.cs",
+              "RelativeToolTip": "RolandConverter\\TraceLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:21:27.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmrcValidator.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\SmrcValidator.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\SmrcValidator.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\SmrcValidator.cs",
+              "RelativeToolTip": "RolandConverter\\SmrcValidator.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAAK4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:21:17.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConverterTests.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter.Tests\\ConverterTests.cs",
+              "RelativeDocumentMoniker": "RolandConverter.Tests\\ConverterTests.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter.Tests\\ConverterTests.cs",
+              "RelativeToolTip": "RolandConverter.Tests\\ConverterTests.cs",
+              "ViewState": "AgIAAJYHAAAAAAAAAIAwwLYHAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:05:07.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MidiFileData.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\MidiFileData.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\MidiFileData.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\MidiFileData.cs",
+              "RelativeToolTip": "RolandConverter\\MidiFileData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:59:03.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConverterTestHarness.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\ConverterTestHarness.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\ConverterTestHarness.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\ConverterTestHarness.cs",
+              "RelativeToolTip": "RolandConverter\\ConverterTestHarness.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAWwH0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:31:57.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SmrcEvent.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\SmrcEvent.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\SmrcEvent.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\SmrcEvent.cs",
+              "RelativeToolTip": "RolandConverter\\SmrcEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:22:05.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmrcToMidiConverter.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\SmrcToMidiConverter.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\SmrcToMidiConverter.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\SmrcToMidiConverter.cs",
+              "RelativeToolTip": "RolandConverter\\SmrcToMidiConverter.cs",
+              "ViewState": "AgIAABMFAAAAAAAAAAAuwDYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:19:04.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\MainForm.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\MainForm.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\MainForm.cs",
+              "RelativeToolTip": "RolandConverter\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:12:18.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\Program.cs",
+              "RelativeDocumentMoniker": "RolandConverter\\Program.cs",
+              "ToolTip": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\Program.cs",
+              "RelativeToolTip": "RolandConverter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:09:31.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "SnapshotId": "20260405031912_74cdf4ae",
+  "CapturedUtc": "2026-04-05T03:19:12.5014714+00:00",
+  "NormalisedContentHash": "A8B680ED79D9C7E04C10D22FD60901C1BEE94514E6ECA680E8B22D9BAB3C8BA0",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "RolandConverter",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.csproj",
+    "SolutionKey": "75A57C6E1FD1B537",
+    "SourceIdentity": {
+      "IdentityKey": "75A57C6E1FD1B537",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "CD7B10F958C3D7C2",
+      "ProjectName": "RolandConverter",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.csproj",
+      "ProjectStyle": "PackageReference",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": "net8.0-windows",
+      "AssetsFilePath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\obj\\project.assets.json",
+      "PackagesLockFilePath": null,
+      "Packages": [
+        {
+          "PackageId": "xunit.abstractions",
+          "RequestedVersion": null,
+          "ResolvedVersion": "2.0.3",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net8.0-windows7.0",
+          "DependencyParents": [
+            "xunit.extensibility.core"
+          ],
+          "DependencyPath": [
+            "xunit.abstractions",
+            "xunit.extensibility.core"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "2.0.3",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Abandoned",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.CSPROJ|NET8.0-WINDOWS7.0|NONE|XUNIT.ABSTRACTIONS"
+        },
+        {
+          "PackageId": "xunit.extensibility.core",
+          "RequestedVersion": "2.9.3",
+          "ResolvedVersion": null,
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net8.0-windows",
+          "DependencyParents": [],
+          "DependencyPath": [],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "2.9.3",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Abandoned",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.CSPROJ|NET8.0-WINDOWS|NONE|XUNIT.EXTENSIBILITY.CORE"
+        },
+        {
+          "PackageId": "xunit.extensibility.core",
+          "RequestedVersion": null,
+          "ResolvedVersion": "2.9.3",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net8.0-windows7.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "xunit.extensibility.core"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "2.9.3",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Abandoned",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.CSPROJ|NET8.0-WINDOWS7.0|NONE|XUNIT.EXTENSIBILITY.CORE"
+        }
+      ],
+      "DependencyEdges": [
+        {
+          "FromPackageId": "xunit.extensibility.core",
+          "ToPackageId": "xunit.abstractions",
+          "TargetFrameworkMoniker": "net8.0-windows7.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.CSPROJ|NET8.0-WINDOWS7.0|NONE|XUNIT.EXTENSIBILITY.CORE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.CSPROJ|NET8.0-WINDOWS7.0|NONE|XUNIT.ABSTRACTIONS"
+        }
+      ],
+      "Diagnostics": [
+        {
+          "Code": "NUAUDABN",
+          "Severity": "Warning",
+          "Message": "Package \u0027xunit.abstractions\u0027 2.0.3: latest compatible stable matches the resolved version, but that release was published more than a year ago on nuget.org.",
+          "ProjectName": "RolandConverter",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.csproj",
+          "PackageId": "xunit.abstractions",
+          "TargetFrameworkMoniker": "net8.0-windows7.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDABN",
+          "Severity": "Warning",
+          "Message": "Package \u0027xunit.extensibility.core\u0027 2.9.3: latest compatible stable matches the resolved version, but that release was published more than a year ago on nuget.org.",
+          "ProjectName": "RolandConverter",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.csproj",
+          "PackageId": "xunit.extensibility.core",
+          "TargetFrameworkMoniker": "net8.0-windows",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDABN",
+          "Severity": "Warning",
+          "Message": "Package \u0027xunit.extensibility.core\u0027 2.9.3: latest compatible stable matches the resolved version, but that release was published more than a year ago on nuget.org.",
+          "ProjectName": "RolandConverter",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.csproj",
+          "PackageId": "xunit.extensibility.core",
+          "TargetFrameworkMoniker": "net8.0-windows7.0",
+          "HelpLink": null
+        }
+      ],
+      "Warnings": []
+    }
+  ],
+  "Warnings": [
+    "Attention required: 3 package diagnostics are warnings."
+  ]
+}

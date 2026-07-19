@@ -1,0 +1,23 @@
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\bin\Debug\net8.0-windows\The Imperial March - Star Wars - Org.mid
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\bin\Debug\net8.0-windows\The Imperial March - Star Wars - Org.seq
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\bin\Debug\net8.0-windows\The Imperial March - Star Wars.mid
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\bin\Debug\net8.0-windows\RolandConverter.exe
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\bin\Debug\net8.0-windows\RolandConverter.deps.json
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\bin\Debug\net8.0-windows\RolandConverter.runtimeconfig.json
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\bin\Debug\net8.0-windows\RolandConverter.dll
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\bin\Debug\net8.0-windows\RolandConverter.pdb
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\bin\Debug\net8.0-windows\xunit.abstractions.dll
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\bin\Debug\net8.0-windows\xunit.core.dll
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\obj\Debug\net8.0-windows\RolandConverter.csproj.AssemblyReference.cache
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\obj\Debug\net8.0-windows\RolandConverter.MainForm.resources
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\obj\Debug\net8.0-windows\RolandConverter.csproj.GenerateResource.cache
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\obj\Debug\net8.0-windows\RolandConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\obj\Debug\net8.0-windows\RolandConverter.AssemblyInfoInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\obj\Debug\net8.0-windows\RolandConverter.AssemblyInfo.cs
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\obj\Debug\net8.0-windows\RolandConverter.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\obj\Debug\net8.0-windows\RolandCo.99DC91C0.Up2Date
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\obj\Debug\net8.0-windows\RolandConverter.dll
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\obj\Debug\net8.0-windows\refint\RolandConverter.dll
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\obj\Debug\net8.0-windows\RolandConverter.pdb
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\obj\Debug\net8.0-windows\RolandConverter.genruntimeconfig.cache
+C:\Users\windo\OneDrive\Documents\Development\RolandConverter\RolandConverter\obj\Debug\net8.0-windows\ref\RolandConverter.dll

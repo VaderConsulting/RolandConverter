@@ -1,0 +1,724 @@
+{
+  "SnapshotId": "20260405031924_86edc3cd",
+  "CapturedUtc": "2026-04-05T03:19:24.7313099+00:00",
+  "NormalisedContentHash": "6F33D92DB3AC3512979D2A378AFD45B999903947D83409BC687D854996CD6225",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "RolandConverter.Tests",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+    "SolutionKey": "EC7827B12CAA2B2C",
+    "SourceIdentity": {
+      "IdentityKey": "EC7827B12CAA2B2C",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "9529EF77E3A50193",
+      "ProjectName": "RolandConverter.Tests",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+      "ProjectStyle": "PackageReference",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": "net9.0",
+      "AssetsFilePath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\obj\\project.assets.json",
+      "PackagesLockFilePath": null,
+      "Packages": [
+        {
+          "PackageId": "coverlet.collector",
+          "RequestedVersion": "6.0.2",
+          "ResolvedVersion": "6.0.2",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "coverlet.collector"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "6.0.4",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|COVERLET.COLLECTOR"
+        },
+        {
+          "PackageId": "Microsoft.CodeCoverage",
+          "RequestedVersion": null,
+          "ResolvedVersion": "17.12.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.NET.Test.Sdk"
+          ],
+          "DependencyPath": [
+            "Microsoft.CodeCoverage",
+            "Microsoft.NET.Test.Sdk"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "18.3.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|MICROSOFT.CODECOVERAGE"
+        },
+        {
+          "PackageId": "Microsoft.NET.Test.Sdk",
+          "RequestedVersion": "17.12.0",
+          "ResolvedVersion": "17.12.0",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "Microsoft.NET.Test.Sdk"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "18.3.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|MICROSOFT.NET.TEST.SDK"
+        },
+        {
+          "PackageId": "Microsoft.TestPlatform.ObjectModel",
+          "RequestedVersion": null,
+          "ResolvedVersion": "17.12.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.TestPlatform.TestHost"
+          ],
+          "DependencyPath": [
+            "Microsoft.TestPlatform.ObjectModel",
+            "Microsoft.TestPlatform.TestHost",
+            "Microsoft.NET.Test.Sdk"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "18.3.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|MICROSOFT.TESTPLATFORM.OBJECTMODEL"
+        },
+        {
+          "PackageId": "Microsoft.TestPlatform.TestHost",
+          "RequestedVersion": null,
+          "ResolvedVersion": "17.12.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.NET.Test.Sdk"
+          ],
+          "DependencyPath": [
+            "Microsoft.TestPlatform.TestHost",
+            "Microsoft.NET.Test.Sdk"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "18.3.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|MICROSOFT.TESTPLATFORM.TESTHOST"
+        },
+        {
+          "PackageId": "Newtonsoft.Json",
+          "RequestedVersion": null,
+          "ResolvedVersion": "13.0.1",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.TestPlatform.TestHost"
+          ],
+          "DependencyPath": [
+            "Newtonsoft.Json",
+            "Microsoft.TestPlatform.TestHost",
+            "Microsoft.NET.Test.Sdk"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "13.0.4",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|NEWTONSOFT.JSON"
+        },
+        {
+          "PackageId": "System.Reflection.Metadata",
+          "RequestedVersion": null,
+          "ResolvedVersion": "1.6.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "Microsoft.TestPlatform.ObjectModel"
+          ],
+          "DependencyPath": [
+            "System.Reflection.Metadata",
+            "Microsoft.TestPlatform.ObjectModel",
+            "Microsoft.TestPlatform.TestHost",
+            "Microsoft.NET.Test.Sdk"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "10.0.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|SYSTEM.REFLECTION.METADATA"
+        },
+        {
+          "PackageId": "xunit",
+          "RequestedVersion": "2.9.2",
+          "ResolvedVersion": "2.9.2",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "xunit"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "2.9.3",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT"
+        },
+        {
+          "PackageId": "xunit.abstractions",
+          "RequestedVersion": null,
+          "ResolvedVersion": "2.0.3",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "xunit.extensibility.core"
+          ],
+          "DependencyPath": [
+            "xunit.abstractions",
+            "xunit.extensibility.core",
+            "xunit.core",
+            "xunit"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": false,
+            "IsVulnerable": false,
+            "LatestStableVersion": "2.0.3",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Abandoned",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.ABSTRACTIONS"
+        },
+        {
+          "PackageId": "xunit.analyzers",
+          "RequestedVersion": null,
+          "ResolvedVersion": "1.16.0",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "xunit"
+          ],
+          "DependencyPath": [
+            "xunit.analyzers",
+            "xunit"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "1.27.0",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.ANALYZERS"
+        },
+        {
+          "PackageId": "xunit.assert",
+          "RequestedVersion": null,
+          "ResolvedVersion": "2.9.2",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "xunit"
+          ],
+          "DependencyPath": [
+            "xunit.assert",
+            "xunit"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "2.9.3",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.ASSERT"
+        },
+        {
+          "PackageId": "xunit.core",
+          "RequestedVersion": null,
+          "ResolvedVersion": "2.9.2",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "xunit"
+          ],
+          "DependencyPath": [
+            "xunit.core",
+            "xunit"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "2.9.3",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.CORE"
+        },
+        {
+          "PackageId": "xunit.extensibility.core",
+          "RequestedVersion": null,
+          "ResolvedVersion": "2.9.2",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "xunit.core",
+            "xunit.extensibility.execution"
+          ],
+          "DependencyPath": [
+            "xunit.extensibility.core",
+            "xunit.core",
+            "xunit"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "2.9.3",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.EXTENSIBILITY.CORE"
+        },
+        {
+          "PackageId": "xunit.extensibility.execution",
+          "RequestedVersion": null,
+          "ResolvedVersion": "2.9.2",
+          "ReferenceKind": "Transitive",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [
+            "xunit.core"
+          ],
+          "DependencyPath": [
+            "xunit.extensibility.execution",
+            "xunit.core",
+            "xunit"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "2.9.3",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.EXTENSIBILITY.EXECUTION"
+        },
+        {
+          "PackageId": "xunit.runner.visualstudio",
+          "RequestedVersion": "2.8.2",
+          "ResolvedVersion": "2.8.2",
+          "ReferenceKind": "Direct",
+          "IsCentralVersionManaged": false,
+          "TargetFrameworkMoniker": "net9.0",
+          "DependencyParents": [],
+          "DependencyPath": [
+            "xunit.runner.visualstudio"
+          ],
+          "HealthInfo": {
+            "IsDeprecated": false,
+            "IsObsolete": false,
+            "IsOutdated": true,
+            "IsVulnerable": false,
+            "LatestStableVersion": "3.1.5",
+            "DeprecationMessage": null,
+            "AlternatePackageId": null,
+            "AlternatePackageRange": null,
+            "MaxVulnerabilitySeverity": "None",
+            "Vulnerabilities": [],
+            "DevelopmentStatus": "Active",
+            "RequiresAttention": true
+          },
+          "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.RUNNER.VISUALSTUDIO"
+        }
+      ],
+      "DependencyEdges": [
+        {
+          "FromPackageId": "Microsoft.NET.Test.Sdk",
+          "ToPackageId": "Microsoft.CodeCoverage",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|MICROSOFT.NET.TEST.SDK",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|MICROSOFT.CODECOVERAGE"
+        },
+        {
+          "FromPackageId": "Microsoft.NET.Test.Sdk",
+          "ToPackageId": "Microsoft.TestPlatform.TestHost",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|MICROSOFT.NET.TEST.SDK",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|MICROSOFT.TESTPLATFORM.TESTHOST"
+        },
+        {
+          "FromPackageId": "Microsoft.TestPlatform.ObjectModel",
+          "ToPackageId": "System.Reflection.Metadata",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|MICROSOFT.TESTPLATFORM.OBJECTMODEL",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|SYSTEM.REFLECTION.METADATA"
+        },
+        {
+          "FromPackageId": "Microsoft.TestPlatform.TestHost",
+          "ToPackageId": "Microsoft.TestPlatform.ObjectModel",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|MICROSOFT.TESTPLATFORM.TESTHOST",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|MICROSOFT.TESTPLATFORM.OBJECTMODEL"
+        },
+        {
+          "FromPackageId": "Microsoft.TestPlatform.TestHost",
+          "ToPackageId": "Newtonsoft.Json",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|MICROSOFT.TESTPLATFORM.TESTHOST",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|NEWTONSOFT.JSON"
+        },
+        {
+          "FromPackageId": "xunit",
+          "ToPackageId": "xunit.analyzers",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.ANALYZERS"
+        },
+        {
+          "FromPackageId": "xunit",
+          "ToPackageId": "xunit.assert",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.ASSERT"
+        },
+        {
+          "FromPackageId": "xunit",
+          "ToPackageId": "xunit.core",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.CORE"
+        },
+        {
+          "FromPackageId": "xunit.core",
+          "ToPackageId": "xunit.extensibility.core",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.CORE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.EXTENSIBILITY.CORE"
+        },
+        {
+          "FromPackageId": "xunit.core",
+          "ToPackageId": "xunit.extensibility.execution",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.CORE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.EXTENSIBILITY.EXECUTION"
+        },
+        {
+          "FromPackageId": "xunit.extensibility.core",
+          "ToPackageId": "xunit.abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.EXTENSIBILITY.CORE",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.ABSTRACTIONS"
+        },
+        {
+          "FromPackageId": "xunit.extensibility.execution",
+          "ToPackageId": "xunit.extensibility.core",
+          "TargetFrameworkMoniker": "net9.0",
+          "FromStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.EXTENSIBILITY.EXECUTION",
+          "ToStablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/ROLANDCONVERTER/ROLANDCONVERTER/ROLANDCONVERTER.TESTS/ROLANDCONVERTER.TESTS.CSPROJ|NET9.0|NONE|XUNIT.EXTENSIBILITY.CORE"
+        }
+      ],
+      "Diagnostics": [
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027coverlet.collector\u0027 6.0.2 is outdated. Latest compatible stable version: 6.0.4.",
+          "ProjectName": "RolandConverter.Tests",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+          "PackageId": "coverlet.collector",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.CodeCoverage\u0027 17.12.0 is outdated. Latest compatible stable version: 18.3.0.",
+          "ProjectName": "RolandConverter.Tests",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+          "PackageId": "Microsoft.CodeCoverage",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.NET.Test.Sdk\u0027 17.12.0 is outdated. Latest compatible stable version: 18.3.0.",
+          "ProjectName": "RolandConverter.Tests",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+          "PackageId": "Microsoft.NET.Test.Sdk",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.TestPlatform.ObjectModel\u0027 17.12.0 is outdated. Latest compatible stable version: 18.3.0.",
+          "ProjectName": "RolandConverter.Tests",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+          "PackageId": "Microsoft.TestPlatform.ObjectModel",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Microsoft.TestPlatform.TestHost\u0027 17.12.0 is outdated. Latest compatible stable version: 18.3.0.",
+          "ProjectName": "RolandConverter.Tests",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+          "PackageId": "Microsoft.TestPlatform.TestHost",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027Newtonsoft.Json\u0027 13.0.1 is outdated. Latest compatible stable version: 13.0.4.",
+          "ProjectName": "RolandConverter.Tests",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+          "PackageId": "Newtonsoft.Json",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027System.Reflection.Metadata\u0027 1.6.0 is outdated. Latest compatible stable version: 10.0.5.",
+          "ProjectName": "RolandConverter.Tests",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+          "PackageId": "System.Reflection.Metadata",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027xunit\u0027 2.9.2 is outdated. Latest compatible stable version: 2.9.3.",
+          "ProjectName": "RolandConverter.Tests",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+          "PackageId": "xunit",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDABN",
+          "Severity": "Warning",
+          "Message": "Package \u0027xunit.abstractions\u0027 2.0.3: latest compatible stable matches the resolved version, but that release was published more than a year ago on nuget.org.",
+          "ProjectName": "RolandConverter.Tests",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+          "PackageId": "xunit.abstractions",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027xunit.analyzers\u0027 1.16.0 is outdated. Latest compatible stable version: 1.27.0.",
+          "ProjectName": "RolandConverter.Tests",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+          "PackageId": "xunit.analyzers",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027xunit.assert\u0027 2.9.2 is outdated. Latest compatible stable version: 2.9.3.",
+          "ProjectName": "RolandConverter.Tests",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+          "PackageId": "xunit.assert",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027xunit.core\u0027 2.9.2 is outdated. Latest compatible stable version: 2.9.3.",
+          "ProjectName": "RolandConverter.Tests",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+          "PackageId": "xunit.core",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027xunit.extensibility.core\u0027 2.9.2 is outdated. Latest compatible stable version: 2.9.3.",
+          "ProjectName": "RolandConverter.Tests",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+          "PackageId": "xunit.extensibility.core",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027xunit.extensibility.execution\u0027 2.9.2 is outdated. Latest compatible stable version: 2.9.3.",
+          "ProjectName": "RolandConverter.Tests",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+          "PackageId": "xunit.extensibility.execution",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        },
+        {
+          "Code": "NUAUDOLD",
+          "Severity": "Warning",
+          "Message": "Package \u0027xunit.runner.visualstudio\u0027 2.8.2 is outdated. Latest compatible stable version: 3.1.5.",
+          "ProjectName": "RolandConverter.Tests",
+          "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\RolandConverter\\RolandConverter\\RolandConverter.Tests\\RolandConverter.Tests.csproj",
+          "PackageId": "xunit.runner.visualstudio",
+          "TargetFrameworkMoniker": "net9.0",
+          "HelpLink": null
+        }
+      ],
+      "Warnings": []
+    }
+  ],
+  "Warnings": [
+    "Attention required: 15 package diagnostics are warnings."
+  ]
+}
