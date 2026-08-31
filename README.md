@@ -2,6 +2,8 @@
 
 A Windows Forms utility that converts between **Roland S-MRC** (Roland proprietary sequencer format) and standard **MIDI** (`.mid`) files. Bidirectional: S-MRC to MIDI and MIDI to S-MRC.
 
+**Source last updated:** 2025-05-24
+
 **Initiated:** 2025-05-24 · **Framework:** .NET 8 Windows Forms · **Solution:** `RolandConverter.sln`
 
 ---
