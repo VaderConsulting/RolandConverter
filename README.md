@@ -42,3 +42,8 @@ dotnet run --project RolandConverter/RolandConverter.csproj
 2. Select output file
 3. Choose direction: **To MIDI** or **To S-MRC**
 4. Click **Convert**
+
+## Requirements
+
+- Visual Studio 2022, .NET 8.0, .NET 9.0
+
