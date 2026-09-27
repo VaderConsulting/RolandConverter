@@ -1,49 +1,31 @@
-﻿# RolandConverter
+# RolandConverter
 
-A Windows Forms utility that converts between **Roland S-MRC** (Roland proprietary sequencer format) and standard **MIDI** (`.mid`) files. Bidirectional: S-MRC to MIDI and MIDI to S-MRC.
+A Windows Forms utility that converts between Roland S-MRC (Roland proprietary sequencer format) and standard MIDI (.mid) files. Bidirectional: S-MRC to MIDI and MIDI to S-MRC.
 
-**Source last updated:** 2025-05-24
+**Source last updated:** 2025-05-24  
+**Language:** C#  
+**Target:** .NET 8 Windows Forms  
+**Output:** WinForms executable
 
-**Initiated:** 2025-05-24 · **Framework:** .NET 8 Windows Forms · **Solution:** `RolandConverter.sln`
+## Solution structure
 
----
+| Project | Language | Type | Purpose |
+| --- | --- | --- | --- |
+| `RolandConverter` | C# | WinForms exe | Bidirectional S-MRC / MIDI converter UI |
 
-## What Is S-MRC?
+## How to open
 
-S-MRC is a Roland-proprietary binary sequencer format used on Roland hardware (arranger keyboards, sequencers).
-
-| Property | Value |
-|----------|-------|
-| Header size | 168 bytes |
-| Title field | 32 bytes, ASCII + NUL padding |
-| Max tracks | 8 linear phrase tracks |
-| Default PPQN | 96 clocks per quarter note |
-| Tempo range | 10-250 BPM |
-
----
-
-## Features
-
-- **Bidirectional conversion** - S-MRC to MIDI or MIDI to S-MRC
-- **Format validation** - structural correctness checked before and after conversion
-- **Timestamped log panel** - conversion steps, warnings, and errors with colour coding
-- **Sample files included** - *The Imperial March* in both `.mid` and `.seq` formats
-
----
-
-## Getting Started
-
-```bash
-dotnet build RolandConverter.sln
-dotnet run --project RolandConverter/RolandConverter.csproj
-```
-
-1. Select input file (`.seq` or `.mid`)
-2. Select output file
-3. Choose direction: **To MIDI** or **To S-MRC**
-4. Click **Convert**
+Open `RolandConverter.sln` in Visual Studio.
 
 ## Requirements
 
-- Visual Studio 2022, .NET 8.0, .NET 9.0
+- Visual Studio 2022 or 2026
+- .NET 8 SDK (Windows)
 
+## Attribution and provenance
+
+Working copy from my Historical Dev folder. Dave Robinson / VaderConsulting.
+
+## License
+
+MIT. See `LICENSE`.
