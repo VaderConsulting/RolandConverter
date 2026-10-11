@@ -24,7 +24,7 @@ Open `RolandConverter.sln` in Visual Studio.
 
 ## Attribution and provenance
 
-Working copy from my Historical Dev folder. Dave Robinson / VaderConsulting.
+Working copy from my Historical Dev folder. Dave Robinson / Vader Consulting.
 
 ## License
 
